@@ -1,8 +1,8 @@
 name: "blog-posts"
-title: "Posts"
+title: "Blog Posts"
 description: |
   Posts
-output_dir: "http://brunaw.com/blog-posts"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
