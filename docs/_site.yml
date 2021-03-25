@@ -2,7 +2,7 @@ name: "blog-posts"
 title: "Posts"
 description: |
   Posts
-output_dir: "_site"
+output_dir: "http://brunaw.com/blog-posts"
 navbar:
   right:
     - text: "Home"
