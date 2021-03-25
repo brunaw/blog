@@ -1,17 +1,17 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Posts",
-    "description": "Welcome to our new blog, Posts. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2021-03-30-rf-penalization/",
+    "title": "Feature Selection via Gain Penalization in Random Forests",
+    "description": "A method for feature selection with Random Forests",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Bruna Wundervald",
+        "url": "http://brunaw.com/"
       }
     ],
     "date": "2021-03-25",
     "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-25T14:02:27+00:00"
+    "preview": "posts/2021-03-30-rf-penalization/post_files/figure-html5/unnamed-chunk-12-1.png",
+    "last_modified": "2021-03-25T14:45:39+00:00"
   }
 ]

@@ -1,12 +1,15 @@
 name: "blog-posts"
-title: "Blog Posts"
+title: ""
+theme: theme.css
 description: |
   Posts
-output_dir: "."
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-output: distill::distill_article
+    - text: "Back"
+      href: http://brunaw.com/
+output: 
+  distill::distill_article:
+    css: theme.css
